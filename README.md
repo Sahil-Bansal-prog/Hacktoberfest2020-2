@@ -8,7 +8,7 @@ Get ready for some crazy days of bugs, typos, errors and fun.... </h4> </h1></p>
  <br>
 
 ### This repository contains code bases and issues that you can solve for the ongoing Hacktoberfest-2020.
-
+an amazing project
 #### Your Get Started Guide :-
 
 <ul>
